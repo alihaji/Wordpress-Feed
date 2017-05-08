@@ -1,2 +1,2 @@
 # Wordpress-Feed
-Customize wordpress feed for using on Farsi/Arabi/Hebrew sites.
+Customizing wordpress feeds for using on Farsi/Arabi/Hebrew sites.
